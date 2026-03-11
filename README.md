@@ -1,2 +1,2 @@
-# introdu-o-ci-ncia-de-Dados-
+# introdu-o-ciencia-de-Dados-
 Atividades ou estudos
